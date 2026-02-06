@@ -9,7 +9,7 @@ import os
 
 mlflow.set_tracking_uri("databricks")
 
-URL_MODELO = "models:/workspace.default.trafico_tenerife_definitive_edition/1"
+URL_MODELO = "models:/workspace.default.trafico_tenerife_definitive_edition/2"
 
 
 @asynccontextmanager
